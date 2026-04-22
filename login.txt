@@ -1,1 +1,1 @@
-"Login básico" 
+"Login versión personal" 
