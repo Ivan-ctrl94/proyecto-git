@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Login versión equipo" 
+=======
+"Login versión personal" 
+>>>>>>> feature-login
